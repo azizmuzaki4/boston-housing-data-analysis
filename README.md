@@ -1,10 +1,9 @@
 # 🏠 Boston Housing Dashboard
-
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://www.python.org/)  
-[![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)](https://streamlit.io/)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
-[![Status](https://img.shields.io/badge/Status-Active-success.svg)]()  
-[![Made with ❤️ by Aziz Muzaki](https://img.shields.io/badge/Made%20with%20❤️%20by-Aziz%20Muzaki-orange)](https://github.com/azizmuzaki4)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Active-blue)
+![Made with ❤️ by Aziz Muzaki](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20by%20Aziz%20Muzaki-orange)
 
 The **Boston Housing Dashboard** is an interactive web application built with **Streamlit** that allows users to explore, visualize, model, and predict housing prices using the Boston Housing dataset.  
 It provides a clean, modern UI with customizable visualizations, multiple regression models, and downloadable results.
@@ -136,3 +135,4 @@ This project is licensed under the MIT License – feel free to use, modify, and
 Developed by **[Aziz Muzaki]** – Data Science & Machine Learning Enthusiast.
 
 ---
+

@@ -5,8 +5,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-blue)
 ![Made with ❤️ by Aziz Muzaki](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20by%20Aziz%20Muzaki-orange)
 
-The **Boston Housing Dashboard** is an interactive web application built with **Streamlit** that allows users to explore, visualize, model, and predict housing prices using the Boston Housing dataset.  
-It provides a clean, modern UI with customizable visualizations, multiple regression models, and downloadable results.
+The **Boston Housing Dashboard** is an interactive web application built with **Streamlit** that allows users to explore, visualize, model, and predict housing prices using the Boston Housing dataset. It provides a clean, modern UI with customizable visualizations, multiple regression models, and downloadable results.
 
 ---
 
@@ -135,4 +134,5 @@ This project is licensed under the MIT License – feel free to use, modify, and
 Developed by **[Aziz Muzaki]** – Data Science & Machine Learning Enthusiast.
 
 ---
+
 
